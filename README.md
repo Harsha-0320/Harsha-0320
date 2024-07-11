@@ -8,3 +8,10 @@
   <a href="https://www.instagram.com/harsha__2010/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsha" height="30" width="40" ></a>
   <a href="https://harsha-0320.github.io/Portfolio/" target="_blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/business-collection-2015/383/portfolio-512.png" alt="port" height="40" width="40"></a>
 </p>
+
+### Languages:
+| Java | HTML | CSS | JavaScript | SQL | Python | MongoDB
+|----------|----------|----------|-----|-----|
+|  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg" title="Java"  alt="java" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" title="html"  alt="html" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" title="css" alt="css" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" title="Javascript" alt="JS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sqldeveloper/sqldeveloper-original.svg" title="SQL" alt="Sql" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" title="python" alt="python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/mongodb/mongodb-original.svg" title="mongo" alt="mongo" width="55" height="55"/>
+
+  

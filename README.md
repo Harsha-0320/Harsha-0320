@@ -18,3 +18,8 @@
 | Visual Studio Code | Android Studio | IntelliJ Idea | Figma | Jupyter Notebook | SQL Server Management Studio
 |--------------------|----------------|---------------|-------|------------------|-----------------------------|
 | <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg" align="center" title="vscode" alt="vscode" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/androidstudio/androidstudio-original.svg" align="center" title="android" alt="android" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/intellij/intellij-original.svg" align="center" title="intel" alt="intellij" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/figma/figma-original.svg" align="center" title="figma" alt="figma" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" align="center" title="jupyter" alt="jupyter" width="55" height="55"/> | <img src="https://i.pinimg.com/originals/32/a0/3a/32a03aee0c76419ec5bde950a62883bc.png" align="center" title="ssms" alt="ssms" width="65" height="55"/>
+
+<p align="center">
+<img width="800" height="220" src="https://streak-stats.demolab.com?user=Harsha-0320&theme=vision-friendly-dark&date_format=j%20M%5B%20Y%5D"/>
+</p>
+

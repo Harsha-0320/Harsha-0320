@@ -19,11 +19,10 @@
 |--------|----------------|---------------|-------|------------------|------------------------------|---------|
 | <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg" align="center" title="vscode" alt="vscode" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/androidstudio/androidstudio-original.svg" align="center" title="android" alt="android" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/intellij/intellij-original.svg" align="center" title="intel" alt="intellij" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/figma/figma-original.svg" align="center" title="figma" alt="figma" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" align="center" title="jupyter" alt="jupyter" width="55" height="55"/> | <img src="https://i.pinimg.com/originals/32/a0/3a/32a03aee0c76419ec5bde950a62883bc.png" align="center" title="ssms" alt="ssms" width="85" height="55"/> | <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/eclipse/eclipse-original.svg" title="eclipse" alt="eclipse" width="75" height="55"/>
 <br>
-<br>
 <p align="center">
 <img width="800" height="220" src="https://streak-stats.demolab.com?user=Harsha-0320&theme=vision-friendly-dark&date_format=j%20M%5B%20Y%5D"/>
 </p>
-
+<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Harsha-0320&show_icons=true&theme=vision-friendly-dark" width="600" height="200"/>
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsha-0320&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
